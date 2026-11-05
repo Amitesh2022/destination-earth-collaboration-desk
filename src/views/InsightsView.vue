@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Modelling guidance</span><h2>Every collaboration needs a shared question, traceable data and an operational climate outcome</h2><p>Researchers, civil-protection teams, regions and infrastructure operators can coordinate models, validation evidence and accountable delivery.</p></section></template>
